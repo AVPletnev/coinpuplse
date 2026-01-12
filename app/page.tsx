@@ -1,9 +1,6 @@
-import React from 'react'
 
 const Page = () => {
-  return (
-   <p className='text-3xl font-bold underline'>Hello World</p>
-  )
-}
+  return <div></div>;
+};
 
-export default Page
+export default Page;
